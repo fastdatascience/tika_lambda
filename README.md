@@ -1,4 +1,4 @@
-# Harmony Tika wrapper
+# Tika wrapper
 
 Based on Java function from AWS Lambda Developer Guide  (https://github.com/awsdocs/aws-lambda-developer-guide).
 
